@@ -1,1 +1,1 @@
-This project was created at the early days of web developement 
+This repository showcases my early web development practice project, featuring HTML and CSS work. It includes experiments with forms, animations, and responsive designs, reflecting my learning journey and growth. A foundation for my web development journey.
